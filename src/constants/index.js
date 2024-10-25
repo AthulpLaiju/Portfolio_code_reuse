@@ -45,7 +45,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "Analyze customer demand data to create informative dashboards.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["SQL", "Python", "Incorta"],
   },
   {
     title: "Portfolio Website",
